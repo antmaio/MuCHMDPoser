@@ -2,7 +2,7 @@
 
 MuCaPoser is a full-body self-avatar tracking system for VR that combines multiview RGB pose estimation with sparse HMD tracking. Using a multiview camera rig alongside the headset's own 6-DoF pose and controller/hand tracking, the system estimates and animates a full-body avatar in real time without requiring external body-worn trackers.
 
-![MuCHMDPoser Overview](docs/overview.png)
+![MuCHMDPoser Overview](doc/overview.png)
 
 ## Structure 
 
