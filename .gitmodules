@@ -1,0 +1,12 @@
+[submodule "HMDCameraCalibrationUnity"]
+	path = HMDCameraCalibrationUnity
+	url = https://github.com/antmaio/HMDCameraCalibrationUnity.git
+[submodule "HMDCameraCalibrationCore"]
+	path = HMDCameraCalibrationCore
+	url = https://github.com/antmaio/HMDCameraCalibrationCore.git
+[submodule "HMDCameraAnimationUnity"]
+	path = HMDCameraAnimationUnity
+	url = https://github.com/antmaio/HMDCameraAnimationUnity.git
+[submodule "DeepPoserTraining"]
+	path = DeepPoserTraining
+	url = https://github.com/antmaio/DeepPoserTraining.git
