@@ -16,8 +16,15 @@ MuCaPoser is a full-body self-avatar tracking system for VR that combines multiv
 
 Each submodule is an independent git repository with its own history, included here as a git submodule.
 
-## How they interact
+## Installation 
 
+Clone the repository and its submodules:
+```bash
+git clone --recurse-submodules https://github.com/antmaio/MuCHDMPoser.git
+```
+Follow the instructions in the submodules for each respective task.
+
+## How they interact
 
 1. **`HMDCameraCalibrationUnity`** captures a checkerboard snapshot from the
    HMD's passthrough RGB cameras.
