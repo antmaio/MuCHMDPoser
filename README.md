@@ -20,7 +20,7 @@ Each submodule is an independent git repository with its own history, included h
 
 Clone the repository and its submodules:
 ```bash
-git clone --recurse-submodules https://github.com/antmaio/MuCHDMPoser.git
+git clone --recurse-submodules https://github.com/antmaio/MuCHMDPoser.git
 ```
 Follow the instructions in the submodules for each respective task.
 
