@@ -38,5 +38,12 @@ Follow the instructions in the submodules for each respective task.
    inside the headset.
 
 ## Citations 
-
+```bibtex
+@article{maiorca2026muchmdposer,
+  title={MuCHMDPoser: Multiview RGB-Camera Full-Body Pose Tracking for Virtual Reality},
+  author={Maiorca, Antoine and Fletcher, George and Ravet, Thierry and Dutoit, Thierry},
+  journal={arXiv preprint arXiv:2611.03062},
+  year={2026}
+}
+```
 ## License
